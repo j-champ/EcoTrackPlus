@@ -100,5 +100,6 @@ view/
 swing/
 javafx/
 MainApp.java
-Jasmitha V  
-EcoTrack+ Development Project
+
+- Jasmitha V 
+- EcoTrack+ Development Project
